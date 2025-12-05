@@ -1,0 +1,9 @@
+firecrawl-py
+phidata
+pydantic
+openai
+python-dotenv
+fastapi
+uvicorn
+pydantic-settings
+beautifulsoup4
